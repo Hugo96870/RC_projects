@@ -1,0 +1,6 @@
+[submodule "Proj1/ist196870-proj1-copy"]
+	path = Proj1/ist196870-proj1-copy
+	url = https://git.rnl.tecnico.ulisboa.pt/RC-21-22/ist196870-proj1.git
+[submodule "Proj2/ist196870-proj2-copy"]
+	path = Proj2/ist196870-proj2-copy
+	url = https://git.rnl.tecnico.ulisboa.pt/RC-21-22/ist196870-proj2.git
